@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stscl/stscl.r-universe.dev
 	branch = HEAD
+[submodule "geocn"]
+	path = geocn
+	url = https://github.com/stscl/geocn
