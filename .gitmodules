@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/stscl/stscl.r-universe.dev
 	branch = HEAD
+[submodule "GWmodel3"]
+	path = GWmodel3
+	url = https://github.com/GWmodel-Lab/GWmodel3
+	registered = false
 [submodule "gdverse"]
 	path = gdverse
 	url = https://github.com/stscl/gdverse
