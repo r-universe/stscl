@@ -4,5 +4,11 @@
     "url": "https://github.com/GWmodel-Lab/GWmodel3",
     "via": ["sesp"],
     "from": "sesp"
+  },
+  {
+    "package": "sdsfun",
+    "url": "https://github.com/stscl/sdsfun",
+    "via": ["sesp"],
+    "from": "sesp"
   }
 ]
