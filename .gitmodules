@@ -21,6 +21,9 @@
 [submodule "sesp"]
 	path = sesp
 	url = https://github.com/stscl/sesp
+[submodule "spEDM"]
+	path = spEDM
+	url = https://github.com/stscl/spEDM
 [submodule "sshicm"]
 	path = sshicm
 	url = https://github.com/stscl/sshicm
