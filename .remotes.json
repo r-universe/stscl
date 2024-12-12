@@ -10,11 +10,5 @@
     "url": "https://github.com/stscl/sdsfun",
     "via": ["sesp"],
     "from": "sesp"
-  },
-  {
-    "package": "sdsfun",
-    "url": "https://github.com/stscl/sdsfun",
-    "via": ["spEDM"],
-    "from": "spEDM"
   }
 ]
