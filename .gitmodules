@@ -15,6 +15,9 @@
 [submodule "geocn"]
 	path = geocn
 	url = https://github.com/stscl/geocn
+[submodule "itmsa"]
+	path = itmsa
+	url = https://github.com/stscl/itmsa
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/stscl/sdsfun
