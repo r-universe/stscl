@@ -17,6 +17,9 @@
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/stscl/sdsfun
+[submodule "sesp"]
+	path = sesp
+	url = https://github.com/stscl/sesp
 [submodule "spEDM"]
 	path = spEDM
 	url = https://github.com/stscl/spEDM
