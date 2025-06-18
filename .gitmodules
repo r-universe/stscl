@@ -30,3 +30,6 @@
 [submodule "sshicm"]
 	path = sshicm
 	url = https://github.com/stscl/sshicm
+[submodule "tEDM"]
+	path = tEDM
+	url = https://github.com/stscl/tEDM
