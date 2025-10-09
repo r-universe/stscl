@@ -15,6 +15,9 @@
 [submodule "geocn"]
 	path = geocn
 	url = https://github.com/stscl/geocn
+[submodule "infocausality"]
+	path = infocausality
+	url = https://github.com/stscl/infocausality
 [submodule "itmsa"]
 	path = itmsa
 	url = https://github.com/stscl/itmsa
