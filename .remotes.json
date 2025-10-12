@@ -6,12 +6,6 @@
     "from": "sesp"
   },
   {
-    "package": "gdverse",
-    "url": "https://github.com/stscl/gdverse",
-    "via": ["cisp"],
-    "from": "cisp"
-  },
-  {
     "package": "sdsfun",
     "url": "https://github.com/stscl/sdsfun",
     "via": ["sesp"],
