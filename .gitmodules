@@ -14,6 +14,9 @@
 [submodule "infocausality"]
 	path = infocausality
 	url = https://github.com/stscl/infocausality
+[submodule "infoxtr"]
+	path = infoxtr
+	url = https://github.com/stscl/infoxtr
 [submodule "itmsa"]
 	path = itmsa
 	url = https://github.com/stscl/itmsa
