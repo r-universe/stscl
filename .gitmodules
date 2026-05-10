@@ -5,6 +5,9 @@
 [submodule "cisp"]
 	path = cisp
 	url = https://github.com/stscl/cisp
+[submodule "coupling"]
+	path = coupling
+	url = https://github.com/stscl/coupling
 [submodule "gdverse"]
 	path = gdverse
 	url = https://github.com/stscl/gdverse
